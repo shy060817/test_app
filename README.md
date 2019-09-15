@@ -1,6 +1,15 @@
 # Test_App
 
-잡다하게 테스트하는 앱입니다
+함수형 컴포넌트 앱
+
+- function Food(){
+  .....
+  }
+- props & PropTypes
+
+```
+정적데이터 처리
+```
 
 - 필요없는 파일 삭제 후 git init 및 {gitID}/new 로 repository 생성
 
@@ -15,3 +24,5 @@ git add .
 git commit -m "First commit"
 git push origin master
 ```
+
+- npm i prop-types
